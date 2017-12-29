@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListViewCustomExample</string>
+    <string-array name="list_items">
+        <item> India </item>
+        <item> Australia </item>
+        <item> America </item>
+        <item> Pakistan </item>
+        <item> China </item>
+        <item> Japan </item>
+    </string-array>
+
+</resources>
